@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="bsp 1" modules="pfp-workshop_bd2c96d2de">
+      <parameters>
+        <parameter value="-Yrangepos" />
+        <parameter value="-P:semanticdb:failures:warning" />
+        <parameter value="-P:semanticdb:synthetics:on" />
+        <parameter value="-P:semanticdb:sourceroot:/Users/fserra/devel/pfp-workshop" />
+        <parameter value="-release" />
+        <parameter value="17" />
+      </parameters>
+      <plugins>
+        <plugin path="$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalameta/semanticdb-scalac_2.13.10/4.8.12/semanticdb-scalac_2.13.10-4.8.12.jar" />
+      </plugins>
+    </profile>
+  </component>
+</project>
