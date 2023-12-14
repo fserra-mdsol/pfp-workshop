@@ -7,3 +7,4 @@
 //> using lib "io.circe::circe-generic:0.14.6"
 //> using lib "io.circe::circe-core:0.14.6"
 //> using lib "io.circe::circe-literal:0.14.6"
+//> using lib "dev.profunktor::redis4cats-effects:1.5.2"
